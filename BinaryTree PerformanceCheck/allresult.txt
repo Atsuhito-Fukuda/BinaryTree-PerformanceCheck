@@ -1,0 +1,103 @@
+[ Test()(200フレーム)をN=50回。 ]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare0]
+mean:1851.64[ms] sqrt(var):17.9068[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare1]
+mean:1541.58[ms] sqrt(var):13.744[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare2]
+mean:1257.22[ms] sqrt(var):39.7276[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare3]
+mean:900.38[ms] sqrt(var):43.7936[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare4]
+mean:1054.7[ms] sqrt(var):13.5164[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare5]
+mean:429.76[ms] sqrt(var):2.3035[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare6]
+mean:634.14[ms] sqrt(var):21.4105[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 0.1 [mode : compare7]
+mean:426.94[ms] sqrt(var):8.80978[ms]
+
+// ----------------------------------------------
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare0]
+mean:1894.82[ms] sqrt(var):20.9645[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare1]
+mean:1591.1[ms] sqrt(var):13.018[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare2]
+mean:1263.26[ms] sqrt(var):12.4146[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare3]
+mean:1067.9[ms] sqrt(var):10.9545[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare4]
+mean:1136.28[ms] sqrt(var):14.6162[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare5]
+mean:576.22[ms] sqrt(var):3.42261[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare6]
+mean:704.94[ms] sqrt(var):4.47214[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 1 [mode : compare7]
+mean:607.28[ms] sqrt(var):10.232[ms]
+
+// ----------------------------------------------
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare0]
+mean:1928.8[ms] sqrt(var):10.583[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare1]
+mean:1704.44[ms] sqrt(var):12.6103[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare2]
+mean:1324.08[ms] sqrt(var):25.5615[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare3]
+mean:1207.76[ms] sqrt(var):13.9503[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare4]
+mean:1215.92[ms] sqrt(var):12.7263[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare5]
+mean:728.4[ms] sqrt(var):9.62565[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare6]
+mean:780.82[ms] sqrt(var):5.58058[ms]
+
+* allobjectN = 1000, dynamicobject = 300, maxspeed = 2 [mode : compare7]
+mean:820.72[ms] sqrt(var):38.0794[ms]
+
+// ----------------------------------------------
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare0]
+mean:2723.12[ms] sqrt(var):30.8783[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare1]
+mean:1948.74[ms] sqrt(var):9.30218[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare2]
+mean:1618.02[ms] sqrt(var):9.85611[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare3]
+mean:1546.06[ms] sqrt(var):11.1831[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare4]
+mean:1463.88[ms] sqrt(var):9.93037[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare5]
+mean:1059.18[ms] sqrt(var):20.3018[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare6]
+mean:1019.12[ms] sqrt(var):13.6875[ms]
+
+* allobjectN = 1000, dynamicobject = 500, maxspeed = 2 [mode : compare7]
+mean:1240.02[ms] sqrt(var):13.6007[ms]
